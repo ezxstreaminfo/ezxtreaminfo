@@ -1,0 +1,2 @@
+# ezxtreaminfo
+EZXstream
